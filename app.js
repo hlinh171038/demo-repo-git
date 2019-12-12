@@ -1,0 +1,1 @@
+console.log("ady là app.js");
